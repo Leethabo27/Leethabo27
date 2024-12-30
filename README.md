@@ -30,7 +30,7 @@
 ---
 
 ### 📫 **How to reach me...**
-- 📧 **Email:** [your-email@example.com]  
+- 📧 **Email:** [lethabosemenya13@gmail.com]  
 - 💬 **Discord:** Leethabo#1234 (for dev and design talks)  
 - 🦸 **Twitter & LinkedIn:** [@Leethabo27]  
 - 🌐 **Portfolio:** [lethabosemenya.myportfolio.com](https://lethabosemenya.myportfolio.com)
