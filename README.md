@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Leethabo27
+# 👋 Hi, I’m Lethabo Semenya 
 
 🔮 **A graphic designer, passionate coder, and avid gamer.**  
 🌟 **Exploring the intersection of art and tech** through graphic design, 3D visualization, and software development.
