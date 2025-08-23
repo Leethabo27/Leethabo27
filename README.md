@@ -1,35 +1,16 @@
 👋 Hi, I’m Lethabo Semenya
 
-🎨 Graphic Designer | 💻 Coder | 🎮 Gamer
+🔮 Graphic Designer | Coder | Gamer
+🌟 Exploring the intersection of art & tech through design, 3D visualization, and software development.
 
-I love blending art & tech through design, web dev, and 3D visuals. Always curious, always creating. 🚀
+💻 Into software testing, 🎨 graphic design, 🎮 gaming, and 🔧 building cool things with code.
+🌱 Currently learning web dev, UX, QA automation, and 3D modeling.
 
-🌱 Currently learning
+📫 Reach me: Email [lethabosemenya13@gmail.com]
+ · Portfolio (https://lethabosemenya.myportfolio.com)
+ · LinkedIn
 
-Front-end web dev & UX
-
-Software testing (manual + automation)
-
-3D modeling & animation
-
-💞️ Looking to collaborate on
-
-Open-source projects
-
-Design + dev collabs
-
-QA/testing initiatives
-
-📫 Reach me
-
-📧 lethabosemenya13@gmail.com
-
-🐦 Twitter
- | 💼 LinkedIn
-
-🌐 Portfolio
-
-⚡ Fun fact: I’m a Saiyan girl 💥 powered by anime, design, and late-night coding sessions!
+⚡ Fun fact: I’m a Saiyan girl leveling up in life, anime lover, and puzzle solver.
 
 ---
 
