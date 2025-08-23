@@ -30,7 +30,7 @@ A Netflix-style streaming UI with Movies, TV Shows, Watchlist, and Search functi
 
 <p align="center">
   <a href="https://github.com/Leethabo27/Lethaflix-clone">
-    <img src="https://raw.githubusercontent.com/Leethabo27/Lethaflix-clone/main/preview.png" width="600" alt="Lethaflix Clone Preview">
+    
   </a>
 </p>
 
