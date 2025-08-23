@@ -5,7 +5,7 @@ Graphic designer | Passionate coder | Gamer
 
 💻 Tech Stack
 
-HTML5 | CSS3 | JavaScript | Java | Python | React | Blender | GitHub
+HTML5 | CSS3 | JavaScript | Java  | React | Blender | GitHub
 
 📺 YouTube / Tutorials
 
