@@ -5,7 +5,9 @@
 <p align="center">
   <img src="https://github.com/Leethabo27/Lethaflix-clone/blob/main/preview.png?raw=true" width="600" alt="Profile Banner">
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding animation">
+</p>
 ---
 
 ## 👩‍💻 About Me  
@@ -18,6 +20,23 @@ Exploring the **intersection of art, tech, and gaming** through **graphic design
 
 ---
 
+## Projects Showcase  
+
+### 🎬 Netflix Clone — **Lethaflix**  
+A Netflix-style streaming UI with Movies, TV Shows, Watchlist, and Search functionality.  
+- Built with **HTML, CSS, JavaScript**  
+- Added **localStorage Watchlist** feature  
+- Simple and clean **responsive design**  
+
+<p align="center">
+  <a href="https://github.com/Leethabo27/Lethaflix-clone">
+    <img src="https://raw.githubusercontent.com/Leethabo27/Lethaflix-clone/main/preview.png" width="600" alt="Lethaflix Clone Preview">
+  </a>
+</p>
+
+[🔗 View Repository](https://github.com/Leethabo27/Lethaflix-clone)  
+
+---
 ## 🛠 Tech Stack  
 
 <p align="center">
@@ -28,16 +47,6 @@ Exploring the **intersection of art, tech, and gaming** through **graphic design
 
 ---
 
-## 🚀 Projects  
-
-### 🎬 Netflix Clone — **Lethaflix**  
-A Netflix-style streaming UI with Movies, TV Shows, Watchlist, and Search functionality.  
-
-<p align="center">
-  <a href="https://github.com/Leethabo27/Lethaflix-clone">
-    <img src="https://raw.githubusercontent.com/Leethabo27/Lethaflix-clone/main/preview.png" width="600" alt="Lethaflix Clone Preview">
-  </a>
-</p>
 
 **Features & Tech**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -81,5 +90,8 @@ Outside coding & design, I game a lot:
   <a href="https://lethabosemenya.myportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=adobe&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400" alt="Coder girl gif">
+</p>
 
 
