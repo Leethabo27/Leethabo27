@@ -10,9 +10,9 @@
 I’m a gamer at heart — obsessed with **Dragon Ball**, **Call of Duty**, and **Red Dead Redemption**.  
 But it doesn’t stop there — I also **love anime** and I’m an **aspiring manga artist**, working on bringing my own characters to life through art and storytelling. ⚡  
 
----
 
----
+
+
 
 ## 👩‍💻 About Me  
 Exploring the **intersection of art, tech, and gaming** through **graphic design, 3D visualization, and software development**.  
@@ -22,7 +22,7 @@ Exploring the **intersection of art, tech, and gaming** through **graphic design
 - Built **3D haunted apartments** and architectural renders.  
 - Passion for **branding, logos, and interactive UI**.  
 
----
+
 
 ## Projects Showcase  
 
@@ -40,7 +40,7 @@ A Netflix-style streaming UI with Movies, TV Shows, Watchlist, and Search functi
 
 [🔗 View Repository](https://github.com/Leethabo27/Lethaflix-clone)  
 
----
+
 ## 🛠 Tech Stack  
 
 <p align="center">
