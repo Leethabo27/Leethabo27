@@ -3,7 +3,7 @@
 <h3 align="center">Graphic Designer🎨  | Passionate Coder💻 | Gamer🎮</h3>
 
 <p align="center">
-  <img src="https://github.com/Leethabo27/Lethaflix-clone/blob/main/preview.png?raw=true" width="600" alt="Profile Banner">
+  <img src="https://github.com/Leethabo27/Leethabo27/blob/main/lethabosemenya%20banner.jpg?raw=true" alt="Lethabo Semenya Banner" width="100%">
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding animation">
