@@ -1,45 +1,71 @@
-👋 Hi, I’m Lethabo Semenya 🔮
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm <span style="color:#e50914;">Lethabo Semenya</span></h1>
+<h3 align="center">🎨 Graphic Designer | 💻 Passionate Coder | 🎮 Gamer</h3>
 
-Graphic designer | Passionate coder | Gamer
-🌟 Exploring the intersection of art and tech through graphic design, 3D visualization, and software development.
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding animation">
+</p>
 
-💻 Tech Stack
+---
 
-HTML5 | CSS3 | JavaScript | Java  | React | Blender | GitHub
+## 🚀 About Me  
+✨ Exploring the **intersection of art and tech** through **graphic design, 3D visualization, and software development**.  
+⚡ I’m a **Saiyan girl** — always leveling up my skills!  
+🎮 Anime & Game enthusiast → *Dragon Ball, Call of Duty, Red Dead Redemption*  
+🏆 Created **3D haunted apartments & architectural visualizations**  
+🎨 Love building **logos, brands, and interactive UI**
 
-📺 YouTube / Tutorials
+---
 
-I share coding, design, and productivity tips:
+## 🛠️ Tech Stack  
 
-Front-end Web Development Crash Course
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="50" />
+  <!-- Backend / Programming -->
+  <img src="https://skillicons.dev/icons?i=java" height="50" />
+  <!-- Design -->
+  <img src="https://skillicons.dev/icons?i=blender,figma" height="50" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=github,git,vscode" height="50" />
+</p>
 
-Creating Interactive UI with JS
+---
 
-3D Design & Rendering with Blender
+## 📊 GitHub Stats  
 
-🔗 Connect with me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leethabo27&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leethabo27&layout=compact&theme=tokyonight" height="170" />
+</p>
 
-Email: lethabosemenya13@gmail.com
+---
 
-Discord: Leethabo#1234
+## 🌐 Connect With Me  
 
-Twitter / LinkedIn: @Leethabo27
+<p align="center">
+  <a href="mailto:lethabosemenya13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Leethabo27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Leethabo27"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://lethabosemenya.myportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=adobe&logoColor=white" /></a>
+</p>
 
-Portfolio: lethabosemenya.myportfolio.com
+---
 
+## 🎉 Fun Facts  
 
+- 💥 **Saiyan Mode**: Always chasing the next power level.  
+- 🎮 Games & Anime keep me inspired.  
+- 🏆 Worked on **3D architectural visualizations** & creative projects.  
+- 🎨 Passion for **branding, logos, and interactive UIs**.  
 
+---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400" alt="Coder girl gif">
+</p>
 
+---
+⭐️ From [Leethabo27](https://github.com/Leethabo27)
 
-⚡ Fun Facts
-
-💥 I’m a Saiyan girl—always leveling up!
-
-🎮 Obsessed with anime & games: Dragon Ball, Call of Duty, Red Dead Redemption
-
-🏆 3D Visualized haunted apartments & architecture
-
-🎨 Love designing logos, branding, and interactive UI
-
-Let’s build something amazing together! 🌟
