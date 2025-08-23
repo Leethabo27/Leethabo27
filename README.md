@@ -5,9 +5,18 @@
 <p align="center">
   <img src="https://github.com/Leethabo27/Leethabo27/blob/main/lethabosemenya%20banner.jpg?raw=true" alt="Lethabo Semenya Banner" width="100%">
 </p>
+## 🎮 Gaming & Anime
+
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding animation">
+  <img src="https://media.giphy.com/media/10JhviFuU2gWD6/giphy.gif" alt="Dragon Ball Goku Power Up" width="400">
+  <img src="https://media.giphy.com/media/ExMGjbjvKf2Xm/giphy.gif" alt="Call of Duty" width="400">
 </p>
+
+I’m a gamer at heart — obsessed with **Dragon Ball**, **Call of Duty**, and **Red Dead Redemption**.  
+But it doesn’t stop there — I also **love anime** and I’m an **aspiring manga artist**, working on bringing my own characters to life through art and storytelling. ⚡  
+
+---
+
 ---
 
 ## 👩‍💻 About Me  
