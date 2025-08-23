@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey, I'm <span style="color:#e50914;">Lethabo Semenya</span></h1>
-<h3 align="center">Graphic Designer | Passionate Coder | Gamer</h3>
+<h3 align="center">Graphic Designer🎨  | Passionate Coder💻 | Gamer🎮</h3>
 
 <p align="center">
   <img src="https://github.com/Leethabo27/Lethaflix-clone/blob/main/preview.png?raw=true" width="600" alt="Profile Banner">
