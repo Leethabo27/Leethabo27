@@ -1,39 +1,34 @@
 <!-- Profile Header -->
 <h1 align="center">Hey, I'm <span style="color:#e50914;">Lethabo Semenya</span></h1>
-<h3 align="center">Graphic Designer | Passionate Coder | Gamer | Saiyan ⚡</h3>
+<h3 align="center">Graphic Designer | Passionate Coder | Gamer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ho0xXatV7b3Fo1dE3B/giphy.gif" width="600" alt="Saiyan powering up">
+  <img src="https://github.com/Leethabo27/Lethaflix-clone/blob/main/preview.png?raw=true" width="600" alt="Profile Banner">
 </p>
 
 ---
 
-## About Me  
+## 👩‍💻 About Me  
 Exploring the **intersection of art, tech, and gaming** through **graphic design, 3D visualization, and software development**.  
 
-- 💡 Always leveling up like a true Saiyan warrior.  
-- 🎮 Obsessed with **Dragon Ball, Call of Duty, Red Dead Redemption**.  
-- 🏆 Built **3D haunted apartments** and other architectural visualizations.  
-- 🎨 Passion for **branding, logos, and interactive UI**.  
+- Always leveling up my skills (like a true warrior in training).  
+- Big fan of **Dragon Ball, Call of Duty, Red Dead Redemption**.  
+- Built **3D haunted apartments** and architectural renders.  
+- Passion for **branding, logos, and interactive UI**.  
 
 ---
 
-## Tech Stack  
+## 🛠 Tech Stack  
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="50" />
-  <!-- Backend / Programming -->
-  <img src="https://skillicons.dev/icons?i=java" height="50" />
-  <!-- Design -->
-  <img src="https://skillicons.dev/icons?i=blender,figma" height="50" />
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=github,git,vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java" height="45" />
+  <img src="https://skillicons.dev/icons?i=blender,figma" height="45" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode" height="45" />
 </p>
 
 ---
 
-## 🚀 Projects Showcase  
+## 🚀 Projects  
 
 ### 🎬 Netflix Clone — **Lethaflix**  
 A Netflix-style streaming UI with Movies, TV Shows, Watchlist, and Search functionality.  
@@ -48,43 +43,26 @@ A Netflix-style streaming UI with Movies, TV Shows, Watchlist, and Search functi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-25D366?style=for-the-badge&logo=android&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-25D366?style=for-the-badge)
 ![Watchlist](https://img.shields.io/badge/Watchlist-localStorage-orange?style=for-the-badge)
-![Search](https://img.shields.io/badge/Search-Filter-blue?style=for-the-badge)
+![Search](https://img.shields.io/badge/Search-Feature-blue?style=for-the-badge)
 
-[🔗 View Repository](https://github.com/Leethabo27/Lethaflix-clone)  
-
----
-
-## ⚡ Saiyan Mode: My Power Level  
-Because coding is like training in the Hyperbolic Time Chamber.  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR4Fp4yQfB2g4rm/giphy.gif" width="300" alt="Super Saiyan Goku">
-</p>
-
-- **Focus:** Break limits, push code.  
-- **Power Level:** Over 9000 (and growing).  
-- **Special Moves:** Responsive UI • 3D Visualization • Smooth Animations • Creative Branding.  
+🔗 [View Repository](https://github.com/Leethabo27/Lethaflix-clone)  
 
 ---
 
 ## 🎮 Gamer Side  
 
-When I’m not designing or coding, I’m gaming:  
+Outside coding & design, I game a lot:  
 
 - Dragon Ball FighterZ  
 - Call of Duty Warzone  
 - Red Dead Redemption 2  
-- GTA V Mods & Custom Servers  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" alt="Gaming gif">
-</p>
+- GTA V (mods & servers)  
 
 ---
 
-## GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leethabo27&show_icons=true&theme=tokyonight" height="170" />
@@ -93,7 +71,7 @@ When I’m not designing or coding, I’m gaming:
 
 ---
 
-## Connect With Me  
+## 🔗 Connect With Me  
 
 <p align="center">
   <a href="mailto:lethabosemenya13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -103,13 +81,5 @@ When I’m not designing or coding, I’m gaming:
   <a href="https://lethabosemenya.myportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=adobe&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400" alt="Goku typing fast">
-</p>
-
----
-Made with 🔥 Saiyan Energy by [Leethabo27](https://github.com/Leethabo27)
 
 
