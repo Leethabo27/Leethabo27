@@ -4,63 +4,69 @@
 </h1>
 
 <p align="center">
-  I craft <b>intuitive web experiences</b> and <b>eye-catching designs</b> with a focus on HTML, CSS, JS, and Java.  
-  Passionate about <b>UI/UX, Graphic Design</b>, and creating solutions that delight users.
+  <img src="https://github.com/Leethabo27/Leethabo27/blob/main/lethabosemenya%20banner.jpg?raw=true" alt="Lethabo Semenya Banner" width="100%">
 </p>
 
 ---
 
-<!-- Animated Tech Stack -->
-<h2 align="center">⚡ Tech Stack & Tools</h2>
+## ⚡ About Me
+Exploring the **intersection of art, tech, and gaming** through **graphic design, 3D visualization, and web development**.  
+- Always leveling up my skills (like a true warrior in training)  
+- Built **3D haunted apartments** & architectural renders  
+- Passion for **branding, logos, and interactive UI**  
+- Big fan of **Dragon Ball, Call of Duty, Red Dead Redemption**
+
+---
+
+## 🎬 Projects Showcase
+
+### Lethaflix — Netflix Clone
+A Netflix-style streaming UI with Movies, TV Shows, Watchlist, and Search functionality.  
+- Built with **HTML, CSS, JavaScript**  
+- Added **localStorage Watchlist**  
+- **Responsive, clean design**  
+
+[🔗 View Repository](https://github.com/Leethabo27/Lethaflix-clone)
+
+---
+
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,blender,photoshop,java,github" height="60" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java" height="45" />
+  <img src="https://skillicons.dev/icons?i=blender,figma" height="45" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode" height="45" />
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+## 🎮 Gamer & Anime Side
+I game a lot outside coding & design:  
+- **Dragon Ball FighterZ**  
+- **Call of Duty Warzone**  
+- **Red Dead Redemption 2**  
+- **GTA V (mods & servers)**  
+
+I also love **anime** and am an **aspiring manga artist**, creating my own characters & stories.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leethabo27&show_icons=true&theme=radical&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leethabo27&theme=radical" height="170" />
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400" alt="Coder girl gif">
 </p>
 
 ---
 
-<!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/Leethabo27/mood-productivity-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leethabo27&repo=mood-productivity-tracker&theme=radical" height="150"/>
-  </a>
-  <a href="https://github.com/Leethabo27/Lethaflix-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leethabo27&repo=Lethaflix-clone&theme=radical" height="150"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leethabo27&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leethabo27&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
 
-<!-- Contact & Connect -->
-<h2 align="center">🌐 Connect With Me</h2>
+## 🔗 Connect With Me
 <p align="center">
-  <a href="mailto:lethabosemenya13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4CFF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/lethabo-semenya">
-    <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Leethabo27">
-    <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://lethabosemenya.myportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=adobe&logoColor=white" />
-  </a>
+  <a href="mailto:lethabosemenya13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Leethabo27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Leethabo27"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://lethabosemenya.myportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=adobe&logoColor=white" /></a>
 </p>
-
----
-
-<!-- Optional: Dynamic visitor count -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leethabo27&color=FF4CFF&style=flat-square" alt="Profile Views" />
-</p>
-
