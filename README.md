@@ -15,11 +15,7 @@
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,blender,photoshop,github" height="60" />
-</p>
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,java,react&theme=darkmode&animation=wave" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,blender,photoshop,java,github" height="60" />
 </p>
 
 ---
@@ -57,8 +53,4 @@
   <a href="https://twitter.com/Leethabo27"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://lethabosemenya.myportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=adobe&logoColor=white" /></a>
 </p>
-
-
-
-
 
