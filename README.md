@@ -1,35 +1,29 @@
-<!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=FF1177&center=true&vCenter=true&width=600&height=60&lines=Hey%2C+I'm+Lethabo+Semenya;Graphic+Designer+%7C+UI%2FUX+%7C+Coder;Gamer+%7C+Manga+Artist+in+Progress" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00E5FF&center=true&vCenter=true&width=600&height=60&lines=Hey%2C+I'm+Lethabo+Semenya;Graphic+Designer+%7C+UI%2FUX+Designer;Passionate+Coder+%7C+Gamer" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Leethabo27/Leethabo27/blob/main/lethabosemenya%20banner.jpg?raw=true" alt="Banner" width="100%">
+  <!-- Animated Coder Icon -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" />
+  <!-- Animated Designer Icon -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" />
+  <!-- Animated Gaming Icon -->
+  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="100" />
 </p>
 
 ---
 
 ## 🎨 About Me  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="250" align="right">
-</p>
-
-- Exploring the **intersection of art, tech, and gaming**.  
-- 3+ years as a **Graphic Designer** ✦ logos, branding, motion graphics.  
-- Passionate about **UI/UX & Web Development**.  
-- Gamer + Anime lover ⚡ working on **my own manga characters**.  
-- Built **3D haunted apartments** + architectural renders in Blender.  
+- Exploring the **intersection of art, tech, and gaming**  
+- 3+ years as a **Graphic Designer** ✦ logos, branding, motion graphics  
+- Passionate about **UI/UX & Web Development**  
+- Gamer + Anime lover ⚡ working on **my own manga characters**  
+- Built **3D haunted apartments** + architectural renders in Blender  
 
 ---
 
 ## 🚀 Projects Showcase  
-
-### 🎬 Netflix Clone — **Lethaflix**  
-A Netflix-style streaming UI with Movies, TV Shows, Watchlist, and Search functionality.  
-- Built with **HTML, CSS, JavaScript**  
-- Added **localStorage Watchlist** feature  
-- Simple and clean **responsive design**  
 
 <p align="center">
   <a href="https://github.com/Leethabo27/Lethaflix-clone">
@@ -39,15 +33,15 @@ A Netflix-style streaming UI with Movies, TV Shows, Watchlist, and Search functi
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Animated Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,blender,figma,github,vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,blender,figma,github,vscode" height="60" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" height="45" />
+  <!-- Animated Coding Icon -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 </p>
 
 ---
@@ -59,22 +53,15 @@ A Netflix-style streaming UI with Movies, TV Shows, Watchlist, and Search functi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leethabo27&theme=tokyonight" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leethabo27&layout=compact&theme=tokyonight" height="160" />
-</p>
-
 ---
 
 ## 🎮 Gamer Side  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="200" />
 </p>
-
-- Dragon Ball FighterZ ⚡  
-- Call of Duty Warzone 🎯  
-- Red Dead Redemption 2 🤠  
-- GTA V (mods & servers) 🚗  
 
 ---
 
@@ -88,11 +75,6 @@ A Netflix-style streaming UI with Movies, TV Shows, Watchlist, and Search functi
   <a href="https://lethabosemenya.myportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=adobe&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="450" alt="Coder animation">
-</p>
 
 
 
