@@ -26,14 +26,14 @@ Currently growing in <strong>React.js, Java backend</strong>, and always adding 
 - 🎨 Branding, logos, 3D haunted apartments & UI projects  
 - 💻 Visit my [Portfolio](https://lethabosemenya.myportfolio.com) for more  
 
----
+
 
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Leethabo27&label=Profile%20views&color=ff4cff&style=for-the-badge&logo=star" alt="Profile Views" />
 </p>
 
----
+
 
 <!-- Tech stack + skills animation -->
 <h2 align="center">⚡ Tech Stack & Learning ⚡</h2>
@@ -56,7 +56,7 @@ Currently growing in <strong>React.js, Java backend</strong>, and always adding 
 
 <br clear="both"/>
 
----
+
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats 📊</h2>
@@ -92,7 +92,7 @@ Currently growing in <strong>React.js, Java backend</strong>, and always adding 
   </tr>
 </table>
 
----
+
 
 <!-- Contribution Graph -->
 <h2 align="center">📈 Contribution Graph 📈</h2>
@@ -100,7 +100,7 @@ Currently growing in <strong>React.js, Java backend</strong>, and always adding 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leethabo27&bg_color=220a28&color=ffffff&line=ff4cff&point=ffeb95&area=false&hide_border=false">
 </div>
 
----
+
 
 <!-- Daily Quote -->
 <h2 align="center">💫 Inspiration of the Day 💫</h2>
