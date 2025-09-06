@@ -106,25 +106,7 @@ Currently growing in <strong>React.js, Java backend</strong>, and always adding 
 
 ---
 
-<!-- Connect Section -->
-<h2 align="center">🤝 Connect With Me 🤝</h2>
-<div align="center">
 
-<a href="mailto:lethabosemenya13@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="gmail" />
-</a>
-
-<a href="https://twitter.com/Leethabo27" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="twitter" />
-</a>
-
-<a href="https://www.linkedin.com/in/Leethabo27" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" />
-</a>
-
-<a href="https://lethabosemenya.myportfolio.com" target="_blank">
-<img src="./portfolio.png" width=50 height=50 alt="portfolio" />
-</a>
 
 </div>
 
