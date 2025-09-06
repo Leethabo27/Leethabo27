@@ -1,7 +1,10 @@
 <!-- Banner -->
 ![Lethabo's Banner](./banner.png)
 
-<!-- Night Owl image --> <div> <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"> </div>
+<div>
+  <img align="right" width="40%" src="https://www.etsy.com/listing/4327433486/celebration-animated-emote-cute-gray-cat" alt="Gray Cat Confetti"/>
+</div>
+
 
 
 
