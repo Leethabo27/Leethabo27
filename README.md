@@ -1,9 +1,7 @@
 <!-- Banner -->
 ![Lethabo's Banner](./banner.png)
 
-<div>
-  <img align="right" width="40%" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Anime Coder"/>
-</div>
+<!-- Night Owl image --> <div> <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"> </div>
 
 
 
