@@ -130,20 +130,13 @@ Currently growing in <strong>React.js, Java backend</strong>, and always adding 
   </a>
 </p>
 
----
 
-<!-- Quote Section -->
-<h2 align="center">🌟 Quote of the Day 🌟</h2>
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Lethabo%20Semenya&quote=Design%20is%20thinking%20made%20visual.&theme=dark&bg_color=1a0d1d&author_color=FF4CFF&accent_color=00FFF7">
-</p>
 
----
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Leethabo27/Leethabo27/output/snake.svg" alt="Snake animation">
-</p>
+
+
+
+
 
 <!-- Footer -->
 <p align="center">
