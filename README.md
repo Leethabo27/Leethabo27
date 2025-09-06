@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Lethabo's Banner](./banner.png)
+<p align="center"> <img src="https://github.com/Leethabo27/Leethabo27/blob/main/lethabosemenya%20banner.jpg?raw=true" alt="Lethabo Semenya Banner" width="100%"> </p>
 
 <div>
   <img align="right" width="40%" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Gray Cat Confetti"/>
