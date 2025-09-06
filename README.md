@@ -2,8 +2,9 @@
 ![Lethabo's Banner](./banner.png)
 
 <div>
-  <img align="right" width="40%" src="https://www.etsy.com/listing/4327433486/celebration-animated-emote-cute-gray-cat" alt="Gray Cat Confetti"/>
+  <img align="right" width="40%" src="https://www.pinterest.com/pin/795377984207413621/" alt="Celebratory Dog"/>
 </div>
+
 
 
 
