@@ -102,8 +102,9 @@ Currently growing in <strong>React.js, Java backend</strong>, and always adding 
 <h2 align="center">💫 Inspiration of the Day 💫</h2>
 
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Your%20work%20is%20going%20to%20fill%20a%20large%20part%20of%20your%20life%2C%20and%20the%20only%20way%20to%20be%20truly%20satisfied%20is%20to%20do%20what%20you%20believe%20is%20great%20work.%20And%20the%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&theme=dark&bg_color=1a0d1d&author_color=FF6FFF&accent_color=00FFFF&font=Pacifico">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Your%20work%20is%20going%20to%20fill%20a%20large%20part%20of%20your%20life%2C%20and%20the%20only%20way%20to%20be%20truly%20satisfied%20is%20to%20do%20what%20you%20believe%20is%20great%20work.%20And%20the%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&theme=dark&bg_color=330033&author_color=FF6FFF&accent_color=00FFFF&font=Pacifico">
 </p>
+
 
 
 
