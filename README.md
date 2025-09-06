@@ -1,139 +1,134 @@
-<!-- Profile Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&color=FF4CFF&center=true&vCenter=true&width=650&height=80&lines=Hi,+I'm+Lethabo+Semenya;Graphic+Designer+%7C+UI/UX+Designer;Frontend+Developer+%7C+Creative+Thinker" alt="Typing Animation" />
-</h1>
-
+<!-- Banner -->
 <p align="center">
   <img src="https://github.com/Leethabo27/Leethabo27/blob/main/lethabosemenya%20banner.jpg?raw=true" alt="Lethabo Semenya Banner" width="100%">
 </p>
 
----
-
-## ⚡ About Me
-<p align="left">
-<img align="right" width="25%" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Cute Animal Confetti"/>
-Exploring the **intersection of art, tech, and gaming** through **graphic design, 3D visualization, and web development**.  
-- Always leveling up my skills (like a true warrior in training)  
-- Built **3D haunted apartments** & architectural renders  
-- Passion for **branding, logos, and interactive UI**  
-- Big fan of **Dragon Ball, Call of Duty, Red Dead Redemption**
-</p>
-
-<!-- Profile Views Badge -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Leethabo27&label=Profile%20Views&color=FF4CFF&style=for-the-badge&logo=star" alt="Profile Views" />
-</p>
+<!-- Header with Typing SVG -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=FF4CFF&center=true&vCenter=true&width=700&height=80&lines=Hi,+I'm+Lethabo+Semenya;Graphic+Designer+%7C+UI/UX+Designer;Frontend+Developer+%7C+Creative+Thinker" alt="Typing Animation" />
+</h1>
 
 ---
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʟᴇᴀʀɴɪɴɢ</h2> 
+<!-- About Me -->
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514111/7185/kittywave.gif?1643514111" width="30"/> About Me  
 
+Exploring the **intersection of art, tech, and gaming** through **graphic design, 3D visualization, and web development.**  
+
+- ✨ Always leveling up (like a true warrior in training)  
+- 🎨 Built **3D haunted apartments** & architectural renders  
+- 🖌 Passion for **branding, logos, and interactive UI**  
+- 🎮 Big fan of **Dragon Ball, Call of Duty, Red Dead Redemption**  
+- 💡 Currently learning **React + Java backend**  
+
+---
+
+<!-- Tech Stack -->
+<h2 align="center">⚡ Tech Stack ⚡</h2>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="Skills Animation" src="./Skills_Animation_White.gif" width="90%">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java" height="45" />
+  <img src="https://skillicons.dev/icons?i=blender,figma" height="45" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode" height="45" />
 </p>
-
-<br/>
-
-<h3 align="left">📚 Currently Leveling Up</h3>
-
-<ul align="left">
-  <li>Expanding expertise in **React & Next.js** for full-stack development</li>
-  <li>Deepening knowledge in **Java backend & Spring Boot**</li>
-  <li>Enhancing backend skills with **APIs & microservices**</li>
-  <li>Exploring **AWS services**: EC2, S3, Lambda</li>
-  <li>Learning **serverless functions & cloud deployment**</li>
-  <li>Working with **SQL & NoSQL databases**</li>
-  <li>Integrating **OpenAI APIs** for smarter automation</li>
-  <li>Leveling up **UI/UX design skills** with animations & interactive components</li>
-</ul>
-
-<br clear="both"/>
 
 ---
 
-## 🎬 Featured Projects
+<!-- Projects -->
+<h2 align="center">🎬 Projects Showcase</h2>
 
-### Lethaflix — Netflix Clone
+### 🎥 Lethaflix — Netflix Clone  
 A Netflix-style streaming UI with Movies, TV Shows, Watchlist, and Search functionality.  
 - Built with **HTML, CSS, JavaScript**  
 - Added **localStorage Watchlist**  
 - **Responsive, clean design**  
 
-[🔗 View Repository](https://github.com/Leethabo27/Lethaflix-clone)
+🔗 [View Repository](https://github.com/Leethabo27/Lethaflix-clone)
 
 ---
 
-## 🎮 Gamer & Anime Side
-When I’m not designing or coding, I’m deep into gaming & anime:  
-- **Dragon Ball FighterZ**  
-- **Call of Duty Warzone**  
-- **Red Dead Redemption 2**  
-- **GTA V (mods & servers)**  
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3><strong>Stats</strong></h3>
+      <a href="https://github.com/Leethabo27">
+        <img src="https://github-readme-stats.vercel.app/api?username=Leethabo27&show_icons=true&theme=tokyonight&bg_color=0,000000,441350&title_color=FF4CFF&text_color=ffffff" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3><strong>Top Languages</strong></h3>
+      <a href="https://github.com/Leethabo27">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leethabo27&layout=compact&theme=tokyonight&bg_color=0,000000,441350&title_color=FF4CFF&text_color=ffffff" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-Also working on my own **anime-style manga art** & character designs.  
+---
 
+<!-- Contribution Graph -->
+<h2 align="center">📈 Contribution Graph 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leethabo27&bg_color=220a28&color=ffffff&line=FF4CFF&point=ffeb95&area=false&hide_border=false">
+</div>
+
+---
+
+<!-- Thought of the Day -->
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=Absorb%20what%20is%20useful%2C%20discard%20what%20is%20not%2C%20add%20what%20is%20uniquely%20your%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=FF4CFF">
+</p>
+
+---
+
+<!-- Gamer + Anime -->
+<h2 align="center">🎮 Gamer & Anime Side 🎮</h2>
+<p align="center">
+I game a lot outside coding & design:  
+<br/>
+<strong>Dragon Ball FighterZ | Call of Duty Warzone | Red Dead Redemption 2 | GTA V (mods & servers)</strong>  
+<br/><br/>
+I also love anime and am an aspiring manga artist, creating my own characters & stories.  
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400" alt="Coder girl gif">
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- Connect Section -->
+<h2 align="center">🤝 Connect With Me 🤝</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leethabo27&show_icons=true&theme=radical&bg_color=0,0c0c0c,1a1a1a&title_color=FF4CFF&text_color=00FFF7" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leethabo27&layout=compact&theme=radical&bg_color=0,0c0c0c,1a1a1a&title_color=FF4CFF&text_color=00FFF7" height="170" />
-</p>
+<a href="mailto:lethabosemenya13@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="gmail" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leethabo27&theme=radical&hide_border=true&area=true" width="100%">
-</p>
+<a href="https://twitter.com/Leethabo27" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="twitter" />
+</a>
 
----
+<a href="https://www.linkedin.com/in/Leethabo27" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" />
+</a>
 
-## 🤝 Connect With Me
+<a href="https://lethabosemenya.myportfolio.com" target="_blank">
+<img src="./portfolio.png" width=50 height=50 alt="portfolio" />
+</a>
 
-<p align="center">
-  <a href="mailto:lethabosemenya13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/Leethabo27">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Leethabo27">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://lethabosemenya.myportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=adobe&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-<!-- Quote Section -->
-<h2 align="center">🌟 Quote of the Day 🌟</h2>
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Lethabo%20Semenya&quote=Design%20is%20thinking%20made%20visual.&theme=dark&bg_color=1a0d1d&author_color=FF4CFF&accent_color=00FFF7">
-</p>
-
----
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Leethabo27/Leethabo27/output/snake.svg" alt="Snake animation">
-</p>
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/Leethabo27/Leethabo27/output/snake.svg" alt="Snake animation" />
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4CFF&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
 
