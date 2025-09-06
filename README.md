@@ -2,7 +2,8 @@
 
 
 <div>
- 
+ <img src="https://raw.githubusercontent.com/Leethabo27/Leethabo27/main/lethabo%20img.png" width="40%" align="right">
+
 </div>
 
 
