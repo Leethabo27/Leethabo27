@@ -99,12 +99,14 @@ Currently growing in <strong>React.js, Java backend</strong>, and always adding 
 ---
 
 <!-- Daily Quote -->
-<h2 align="center">🌟 Thought of the Day 🌟</h2>
+<h2 align="center">💫 Inspiration of the Day 💫</h2>
+
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=Absorb%20what%20is%20useful%2C%20discard%20what%20is%20not%2C%20add%20what%20is%20uniquely%20your%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=ff4cff">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Your%20work%20is%20going%20to%20fill%20a%20large%20part%20of%20your%20life%2C%20and%20the%20only%20way%20to%20be%20truly%20satisfied%20is%20to%20do%20what%20you%20believe%20is%20great%20work.%20And%20the%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&theme=dark&bg_color=1a0d1d&author_color=FF6FFF&accent_color=00FFFF&font=Pacifico">
 </p>
 
----
+
+
 
 
 
