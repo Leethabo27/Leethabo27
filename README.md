@@ -2,8 +2,9 @@
 ![Lethabo's Banner](./banner.png)
 
 <div>
-  <img align="right" width="40%" src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" alt="Neon Cat"/>
+  <img align="right" width="40%" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Anime Coder"/>
 </div>
+
 
 
 <!-- Header -->
